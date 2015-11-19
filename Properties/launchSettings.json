@@ -1,0 +1,12 @@
+{
+  "profiles": {
+      "web": {
+        "commandName": "web",
+        "launchBrowser": true,
+        "launchUrl": "index.html",
+        "environmentVariables": {
+          "ASPNET_ENV": "Development"
+        }
+    }
+  }
+}
